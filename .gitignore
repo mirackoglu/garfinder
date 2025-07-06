@@ -1,0 +1,14 @@
+# Virtual env
+venv/
+venv310/
+
+# Logs
+logs/
+
+# Data
+train/
+test/
+
+# OS files
+.DS_Store
+Thumbs.db
